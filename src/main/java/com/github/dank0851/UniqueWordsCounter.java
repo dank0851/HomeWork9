@@ -6,6 +6,7 @@ import java.util.*;
 *  Посчитать, сколько раз встречается каждое слово. (реализовать с использованием коллекций)
  */
 
+
 public class UniqueWordsCounter {
     public static void main(String[] args) {
         String[] words = {"apple", "banana", "apple", "orange", "kiwi", "banana", "strawberry",
