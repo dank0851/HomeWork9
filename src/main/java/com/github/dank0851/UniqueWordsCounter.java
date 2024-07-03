@@ -24,6 +24,7 @@ public class UniqueWordsCounter {
             }
         }
 
+
         System.out.println("Unique words:");
         for (String uniqueWord : uniqueWords) {
             System.out.println(uniqueWord);
