@@ -12,6 +12,7 @@ public class UniqueWordsCounter {
                 "watermelon", "orange", "grape", "peach", "apple", "pear", "kiwi",
                 "pineapple", "banana", "orange", "apple", "cherry"};
 
+
         Map<String, Integer> wordCountMap = new HashMap<>();
         Set<String> uniqueWords = new HashSet<>();
 
