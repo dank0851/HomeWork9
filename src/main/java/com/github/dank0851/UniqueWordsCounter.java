@@ -1,6 +1,13 @@
 package com.github.dank0851;
 import java.util.*;
 
+/*
+ * 1. Создать массив с набором слов (10-20 слов, должны встречаться повторяющиеся).
+ *  Найти и вывести список уникальных слов, из которых состоит массив (дубликаты не считаем).
+ *  Посчитать, сколько раз встречается каждое слово. (реализовать с использованием коллекций)
+ */
+
+
 public class UniqueWordsCounter {
     public static void main(String[] args) {
         String[] words = {"apple", "banana", "apple", "orange", "kiwi", "banana", "strawberry",
